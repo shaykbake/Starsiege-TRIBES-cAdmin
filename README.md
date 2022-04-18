@@ -22,6 +22,4 @@ This file simply contains a few small functions that allow the client to perform
 The `console.cs` in Tribes has to be updated to work with cAdmin. The changes needed do not make it so that the `console.cs` file cannot work as traditionally, launching a server instance with a specified target line the default way. In fact, running a server like so is completely unaffected by cAdmin.
 
 ## Help/Community
-You can post in the github discussions for any help with using this modification in Tribes.
-
-You can also discuss, report issues and get any help with cAdmin by reaching out to me on the {LS} Long Shots team [forums](https://longshots.mk0.pw/forums/) and the team's other online social locations, such as our [Discord](https://longshots.mk0.pw/discord/).
+In addition to the Issues and Discussion tabs within the Github projects page here, you can also reach out to me regarding this project via the {LS} Long Shots team resources - notably our [forums](https://longshots.mk0.pw/forums/) and [Discord](https://longshots.mk0.pw/discord/).
