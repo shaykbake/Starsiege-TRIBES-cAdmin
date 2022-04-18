@@ -1,5 +1,5 @@
-# Starsiege: TRIBES 1.11 cAdmin
-cAdmin Modification for Starsiege: TRIBES 1.11
+# Starsiege: TRIBES cAdmin
+cAdmin Modification for Starsiege: TRIBES
 
 ## What is cAdmin?
 
@@ -22,6 +22,6 @@ This file simply contains a few small functions that allow the client to perform
 The `console.cs` in Tribes has to be updated to work with cAdmin. The changes needed do not make it so that the `console.cs` file cannot work as traditionally, launching a server instance with a specified target line the default way. In fact, running a server like so is completely unaffected by cAdmin.
 
 ## Help/Community
-You can discuss, report issues and get any help with cAdmin by reaching out to me on the {LS} Long Shots team [forums](https://longshots.mk0.pw/forums/) and other online social locations, such as our [Discord](https://longshots.mk0.pw/discord/).
+You can post in the github discussions for any help with using this modification in Tribes.
 
-There is also a version already made to work with the community-patched Tribes 1.41 server, which will be provided in a separate repository.
+You can also discuss, report issues and get any help with cAdmin by reaching out to me on the {LS} Long Shots team [forums](https://longshots.mk0.pw/forums/) and the team's other online social locations, such as our [Discord](https://longshots.mk0.pw/discord/).
